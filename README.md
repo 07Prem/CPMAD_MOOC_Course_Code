@@ -18,6 +18,8 @@ Local course code collection for the CPMAD MOOC assignment. The Udemy course is 
 
 ## Running the examples
 
+"https://github.com/07Prem"
+
 Open an individual example folder containing `pubspec.yaml`. Use Flutter 3.44.5 and Dart 3.12.2, the versions used for this collection.
 
 ```powershell
